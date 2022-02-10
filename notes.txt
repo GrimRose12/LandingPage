@@ -1,0 +1,7 @@
+UI Fundamentals
+    1. Color & Contrast
+    2. White Space
+    3. Visual Hierarchy
+    4. Complexity vs. Simplicity
+    5. Consistency
+    6. Scale
