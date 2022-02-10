@@ -131,3 +131,39 @@ body {
     margin: 0;
     font-size: 30px;
 }
+
+.fourthrow {
+    display: flex;
+    align-items: center;
+    padding: 50px 196px;
+    justify-content: center;
+}
+
+.cta {
+    display: flex;
+    background-color: #3882f6;
+    border-radius: 8px;
+    align-items: center;
+    flex: 1;
+    justify-content: space-around;
+    padding: 25px 50px;
+    color: white;
+}
+
+.left4 {
+    display: flex;
+    flex-direction: column;
+}
+
+.cta .big {
+    font-size: 30px;
+}
+
+.signup2 {
+    font-size: 24px;
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: #3882f6;
+    color: white;
+    padding: 4px 16px;
+}
