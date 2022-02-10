@@ -13,6 +13,10 @@
     justify-content: space-between;
     align-items: center;
     padding: 8px 196px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 .header ul {
@@ -39,9 +43,7 @@ body {
 .firstrow {
     display: flex;
     justify-content: space-between;
-    padding: 50px 196px;
-    
-    
+    padding: 100px 196px 50px;
 }
 
 .firstrow .left {
