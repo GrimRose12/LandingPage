@@ -110,3 +110,24 @@ body {
     max-height: 150px;
     border-radius: 12px;
 }
+
+.thirdrow {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 50px 200px;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 30px;
+    font-style: italic;
+    color: #1F2937;
+    margin: 0;
+}
+
+.quoter {
+    align-self: flex-end;
+    margin: 0;
+    font-size: 30px;
+}
